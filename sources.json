@@ -1,0 +1,66 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "kind": "news",
+    "weight": 3,
+    "enabled": true
+  },
+  {
+    "name": "Google DeepMind",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "kind": "news",
+    "weight": 3,
+    "enabled": true
+  },
+  {
+    "name": "Google AI",
+    "url": "https://blog.google/technology/ai/rss/",
+    "kind": "auto",
+    "weight": 2,
+    "enabled": true
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "kind": "auto",
+    "weight": 2,
+    "enabled": true
+  },
+  {
+    "name": "NVIDIA Generative AI",
+    "url": "https://blogs.nvidia.com/blog/category/generative-ai/feed/",
+    "kind": "auto",
+    "weight": 2,
+    "enabled": true
+  },
+  {
+    "name": "AWS Machine Learning",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "kind": "guide",
+    "weight": 2,
+    "enabled": true
+  },
+  {
+    "name": "n8n Blog",
+    "url": "https://blog.n8n.io/rss/",
+    "kind": "guide",
+    "weight": 2,
+    "enabled": true
+  },
+  {
+    "name": "GitHub Changelog",
+    "url": "https://github.blog/changelog/feed/",
+    "kind": "auto",
+    "weight": 1,
+    "enabled": true
+  },
+  {
+    "name": "Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/feed/",
+    "kind": "auto",
+    "weight": 1,
+    "enabled": true
+  }
+]
+
