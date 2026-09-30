@@ -479,11 +479,12 @@
     "20d614df3f96df84d10bb3f1": "2026-09-29T23:43:51.273220+00:00",
     "d259a5a11ae20b4989eb2723": "2026-09-29T23:43:51.273220+00:00",
     "dec620cb7225d2434a9b02e6": "2026-09-30T05:32:51.744187+00:00",
-    "afa8c33f8eb7996a39419dea": "2026-09-30T05:32:51.744187+00:00"
+    "afa8c33f8eb7996a39419dea": "2026-09-30T05:32:51.744187+00:00",
+    "74c2ff7e2707d1f61043b51a": "2026-09-30T14:55:53.904092+00:00"
   },
   "recent_titles": [
     "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
   ],
   "last_category": "guide",
-  "updated_at": "2026-09-30T05:32:51.744187+00:00"
+  "updated_at": "2026-09-30T14:55:53.904092+00:00"
 }
